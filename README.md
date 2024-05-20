@@ -77,3 +77,7 @@
       "error": "Note not found for the provided ID."
     }
     ```
+
+## 3.1 High level design
+<img width="612" alt="Captura de Tela 2024-05-20 às 15 49 49" src="https://github.com/mayaramaaraujo/full-stack/assets/63872581/c3fba62c-a938-416c-b6ff-80be368bf819">
+
